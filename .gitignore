@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+.classpath
+.project
+.settings/
+db/
+testdb/
+target/
+
+>>>>>>> Initial commit
 # Compiled class file
 *.class
 
