@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# assignment
-=======
 Assignment
 The assessment consists of an API to be used for opening a new “current account” of already existing customers.
 
@@ -24,4 +21,3 @@ Prerequisites: Install java 8 and Maven 3.6.1
  $curl -H "Content-Type:application/json" -X POST -d '{"customerId":"0001", "initialCredit":"2000"}' http://localhost:4567/account
  $curl http://localhost:4567/customer/0001
 Notes: As there is no endpoint for creating new customer, the assignment has initiated with three customers whose customerIDs are 0001, 0002, 0003.
->>>>>>> Initial commit
